@@ -1,88 +1,58 @@
 <div align="center">
 
-<img src="./banner.svg" alt="ORVIL STUDIOS — Independent design and engineering studio" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./orvil-logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="./orvil-logo-dark.png">
+  <img alt="ORVIL" src="./orvil-logo-dark.png" width="390">
+</picture>
 
-<br/>
+### Technology, made human.
 
-#### *An independent studio for brands that prefer signal over noise.*
+An independent technology company designing intelligent products and dependable digital systems.
 
-<sub>Identity · Web · Product · Motion — designed and engineered under one roof.</sub>
-
-<br/>
-
-[**orvilstudios.com**](https://orvilstudios.com) &nbsp;·&nbsp; [support@orvilstudios.com](mailto:support@orvilstudios.com) &nbsp;·&nbsp; [Talaash](https://talaash.orvilstudios.com)
+[Website](https://orvilstudios.com) · [Selected work](https://orvilstudios.com/#work) · [Start a project](mailto:work@orvilstudios.com)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## What we do
 
-## What we build
+We bring strategy, design and engineering together as one discipline—from the first useful question to production software.
 
-A small, senior team working end-to-end on a handful of engagements each year.
+| Practice | What we build |
+| --- | --- |
+| **Brand & direction** | Positioning, identity systems and product language |
+| **Digital products** | Fast, intuitive websites and mobile experiences |
+| **AI & intelligence** | Useful automation and semantic systems built around real needs |
+| **Cloud & connected systems** | Secure backends, APIs and infrastructure engineered to scale |
 
-| | |
-|---|---|
-| **Identity** | Brand systems, naming, typography, voice, guidelines |
-| **Web** | Editorial sites, brand worlds, launch microsites, CMS |
-| **Product** | Interfaces, design systems and platforms for early product teams |
-| **Motion** | Brand films, product reveals, web interactions and direction |
+## Selected work
 
-<br/>
+### [Talaash](https://talaash.orvilstudios.com)
 
-## Featured
+A multilingual local-services platform that helps people find and hire trusted workers without the usual friction. Product strategy, experience design, Android application and backend platform—built in-house by ORVIL.
 
-#### `Talaash` — India's hyperlocal services app
+`Product` · `AI` · `Mobile` · `Platform`
 
-> *Find skilled help near you. Book a plumber, electrician, tutor or maid in seconds — chat, call, pay, done.*
+## How we work
 
-Identity, product design, Android app and backend platform — built in-house, end-to-end. A study in clarity for an audience that has no patience for friction.
+**Origin** — start with the real need.<br>
+**Vision** — define what better looks like.<br>
+**Logic** — engineer it to endure.
 
-[**talaash.app**](https://talaash.orvilstudios.com) &nbsp;·&nbsp; [Repository](https://github.com/ORVIL-STUDIOS/talaash)
+Our work is grounded in clarity, restraint and the belief that technology should earn its place in people's lives.
 
-<br/>
+## Core technologies
 
-## Stack
-
-<sub>Engineering languages and tools we ship with.</sub>
-
-`TypeScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Node` &nbsp; `Kotlin` &nbsp; `Swift` &nbsp; `Flutter` &nbsp; `Python` &nbsp; `PostgreSQL` &nbsp; `Firebase` &nbsp; `WebGL` &nbsp; `Three.js` &nbsp; `Figma`
-
-<br/>
-
-## Studio
-
-| | |
-|---|---|
-| Founded | 2019 |
-| Founder | Jainendra Singh |
-| Team | Senior, in-house |
-| Practice | Identity · Web · Product · Motion |
-| Location | Kanpur, India · Remote across IST |
-| Availability | Taking work · Q3 — Q4 2026 |
-
-<br/>
-
-## Connect
-
-For new work, partnerships or a hello.
-
-[**support@orvilstudios.com**](mailto:support@orvilstudios.com)
-[**orvilstudios.com**](https://orvilstudios.com)
-
-<br/>
+`Kotlin` · `TypeScript` · `Node.js` · `Python` · `PostgreSQL` · `Firebase` · `React` · `Cloud infrastructure`
 
 ---
-
-<br/>
 
 <div align="center">
 
-<sub>**ORVIL STUDIOS**</sub><br/>
-<sub>Independent · Founded by Jainendra Singh · Crafted in Kanpur, IST</sub><br/>
-<sub>© 2026 Orvil Studios LLP</sub>
+**ORVIL** · Kanpur, India
+
+[work@orvilstudios.com](mailto:work@orvilstudios.com) · [GitHub](https://github.com/ORVIL-STUDIOS) · [orvilstudios.com](https://orvilstudios.com)
 
 </div>
